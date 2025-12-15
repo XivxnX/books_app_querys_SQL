@@ -1,5 +1,5 @@
 # 📊 Análisis de Datos de una Aplicación de Libros para la Generación de una Propuesta de Valor
-Este proyecto realiza un análisis exploratorio y descriptivo de la base de datos de una aplicación de libros mediante consultas SQL, con el objetivo de transformar datos operativos en insights estratégicos. El análisis se enfoca en el comportamiento de los usuarios, el desempeño de los libros, autores y editoriales, y su relación con reseñas y calificaciones, proporcionando información clave para mejorar la oferta de contenido y la experiencia del usuario.
+En este proyecto realicé un análisis exploratorio y descriptivo de la base de datos de una aplicación de libros mediante consultas SQL, con el objetivo de transformar datos operativos en insights estratégicos. El análisis se enfoca en el comportamiento de los usuarios, el desempeño de los libros, autores y editoriales, y su relación con reseñas y calificaciones, proporcionando información clave para mejorar la oferta de contenido y la experiencia del usuario.
 
 ## 🎯 Objetivos
 
@@ -8,6 +8,9 @@ Este proyecto realiza un análisis exploratorio y descriptivo de la base de dato
 * Identificar editoriales y autores con mayor impacto y aceptación entre los usuarios.
 * Generar recomendaciones orientadas a mejorar la visibilidad del catálogo y la participación de los usuarios.
 * Proponer acciones estratégicas basadas en datos para fortalecer el sistema de recomendaciones
+
+## 📋 Diagrama de la base de datos
+![alt text](db_diagram.png)
 
 ## 📈 Hallazgos Clave
 
